@@ -5,7 +5,7 @@ return [
 	// 'cdn' => $app->runningInConsole() ? config('app.url') : url('vendor/js/tinymce/tinymce.min.js'),
 	'cdn' => function() {
 		return asset('vendor/js/tinymce/tinymce.min.js');	
-	} 
+	},
 
 	'default' => [
 		"selector" => ".tinymce",
