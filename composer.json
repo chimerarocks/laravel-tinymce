@@ -1,5 +1,5 @@
 {
-    "name": "ktquez/laravel-tinymce",
+    "name": "chimerarocks/laravel-tinymce",
     "description": "TinyMCE editor for Laravel and Lumen Framework",
     "keywords": ["lumen","laravel","tinymce","ckeditor","editor","WYSIWYG","textarea"],
     "homepage": "https://github.com/ktquez/laravel-tinymce",
